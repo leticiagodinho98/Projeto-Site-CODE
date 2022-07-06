@@ -1,2 +1,3 @@
-# projeto-01
-Teste de projeto e repositório
+# Projeto Site CODE
+
+Projeto de desenvolvimento front-end de um site para uma empresa hipotética.
