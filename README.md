@@ -1,3 +1,3 @@
-# Projeto Site CODE
+#Site CODE
 
-Primeiro projeto de desenvolvimento front-end de um site para uma empresa hipotética.
+Site desenvolvido para apresentação uma empresa de tecnologia hipotética. 
